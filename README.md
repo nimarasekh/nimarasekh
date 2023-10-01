@@ -4,7 +4,14 @@ I am postdoc at the Max-Planck-Institut für Mathematik in Bonn, Germany.
 
 There I am a mathematician primarily interested in understanding the role of <em>equalities</em> in mathematics, otherwise known as <bf>homotopy theory</bf>.
 
-I believe formalization of matheamtics via proof assistants can be an important step towards better understanding homotopy theory. As a result I have now commenced various formalization projects, including contributions to <a href="https://github.com/UniMath/UniMath">Coq UniMath</a> and <a href="https://github.com/rzk-lang">Rzk</a>. More on my formalization work can be found in my repositories below!
+I believe formalization of matheamtics via proof assistants can be an important step towards better understanding homotopy theory. As a result I have now commenced various formalization projects, including contributions to <a href="https://github.com/UniMath/UniMath">Coq UniMath</a> and <a href="https://github.com/rzk-lang">Rzk</a>. In particular I am currently focused oon the following formalization projects:
+
+<ol>
+  <li> Double Categories: I am working on a <a href="https://github.com/UniMath/UniMath/tree/master/UniMath/Bicategories/DoubleCategories">formalization of double categories</a> in Coq UniMath (jointly with <a href="https://benediktahrens.gitlab.io/">Benedikt Ahrens</a>, <a href="https://paigenorth.github.io/">Paige North</a> and <a href="https://nmvdw.github.io/">Niels van der Weide</a>).</li>
+  <li> Simplicial Type Theory: I am contributing to the <a href="https://github.com/rzk-lang/sHoTT">formalization of simplicial type theory</a>, as defined by <a href="https://higher-structures.math.cas.cz/api/files/issues/Vol1Iss1/RiehlShulman">Riehl & Shulman</a>.</li>
+</ol>
+
+More details my formalization work can be found in the repositories below!
 
 More general information about me and my mathematical work can be found on my <a href="https://guests.mpim-bonn.mpg.de/rasekh/">Academic Webpage</a>.
 
