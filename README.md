@@ -1,6 +1,13 @@
 ### Hi! Welcome to my GitHub Page
 
-More general information about me can be found on my <a href="">Academic Webpage</a>.
+I am postdoc at the Max-Planck-Institut für Mathematik in Bonn, Germany. 
+
+There I am a mathematician primarily interested in understanding the role of <em>equalities</em> in mathematics, otherwise known as <bf>homotopy theory</bf>.
+
+I believe formalization of matheamtics via proof assistants can be an important step towards better understanding homotopy theory. As a result I have now commenced various formalization projects, including contributions to <a href="https://github.com/UniMath/UniMath">Coq UniMath</a> and <a href="https://github.com/rzk-lang"> </a>. More on my formalization work can be found in my repositories below!
+
+More general information about me and my mathematical work can be found on my <a href="https://guests.mpim-bonn.mpg.de/rasekh/">Academic Webpage</a>.
+
 <!--
 **nimarasekh/nimarasekh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
