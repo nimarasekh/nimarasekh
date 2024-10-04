@@ -1,6 +1,6 @@
 ### Hi! Welcome to my GitHub Page
 
-I am postdoc at the Max-Planck-Institut für Mathematik in Bonn, Germany. 
+I am postdoc at the Universität Greifswald in Greifswald, Germany. 
 
 There I am a mathematician primarily interested in understanding the role of <em>equalities</em> in mathematics, otherwise known as <bf>homotopy theory</bf>.
 
