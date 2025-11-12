@@ -6,12 +6,12 @@ There I am a mathematician primarily interested in understanding the role of *eq
 
 I believe formalization of matheamtics via proof assistants can be an important step towards better understanding homotopy theory. As a result, I have contributed to various formalization projects, including contributions to [Coq UniMath](https://github.com/UniMath/UniMath) and [Rzk](https://github.com/rzk-lang). My GitHub repo contains content from both mathematics and computer science:
 
-1. **Applied Category Theory:** In Winter 2025 I organized a seminar on applied category theory with many different [ideas](https://github.com/nimarasekh/act-WiSe25) 
-2. **Teaching Lean:** In Summer 2025 I taught an introductory course on Lean with a lot of [course material](https://github.com/nimarasekh/Formalization-SoSe25)
-3. **Differential Cohomology** Throughout 2025 I have organizing a running a seminar on differential cohomology, gathering some [lecture notes](https://github.com/nimarasekh/DiffCoh-SoSe25)
-4. **Formalization of Double Categories:** I contributed to the formalization of double category theory in [Rocq UniMath](https://github.com/UniMath/UniMath/tree/master/UniMath/Bicategories/DoubleCategories) 
+1. **Applied Category Theory:** In Winter 2025 I organized a seminar on applied category theory with many different [ideas](https://github.com/nimarasekh/act-WiSe25).
+2. **Teaching Lean:** In Summer 2025 I taught an introductory course on Lean with a lot of [course material](https://github.com/nimarasekh/Formalization-SoSe25).
+3. **Differential Cohomology** Throughout 2025 I have organizing a running a seminar on differential cohomology, gathering some [lecture notes](https://github.com/nimarasekh/DiffCoh-SoSe25).
+4. **Formalization of Double Categories:** I contributed to the formalization of double category theory in [Rocq UniMath](https://github.com/UniMath/UniMath/tree/master/UniMath/Bicategories/DoubleCategories).
 
-More general information about me and my work can be found on my [Academic Webpage](nimarasekh.github.io).
+More general information about me and my work can be found on my [Academic Webpage](https://nimarasekh.github.io).
 
 <!--
 **nimarasekh/nimarasekh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
